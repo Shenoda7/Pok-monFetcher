@@ -17,5 +17,5 @@ A simple web app that fetches and displays a Pokémon's sprite based on user inp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pokemon-fetcher.git
+   git clone https://github.com/yourusername/Pok-monFetcher.git
    ```
